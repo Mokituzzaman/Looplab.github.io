@@ -1,0 +1,22 @@
+$d
+body{
+	background:#333;
+	color:#ffffff;
+	
+}
+
+.navbar{
+	border-bottom:#00edff 3px solid;
+	opacity:0.8; }
+
+#home-section{
+	background:url('img/bg.jpg') no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	min-height: 700px;
+
+	.home-inner{
+		padding-top: 150px; 
+	}
+}
+ 	
